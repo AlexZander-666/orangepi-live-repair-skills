@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orange Pi Live Repair"
+  short_description: "Recover Orange Pi live transport safely"
+  default_prompt: "Use $orangepi-live-direct-lan-repair to recover a COM10-attached Orange Pi live runtime with Xiaomi 14 direct-LAN validation."
