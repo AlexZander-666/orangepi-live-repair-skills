@@ -10,6 +10,8 @@ Reusable Codex skills for recovering and validating CareSense Orange Pi live run
   - Assemble real run artifacts into an operator-grade final report with exact commands, run directories, extracted report fields, and a final success or classified-failure conclusion.
 - `skills/serial-shell-debug-recovery`
   - Recover polluted UART or serial shell sessions, restore a trustworthy ready handshake, and strip shell noise from command output before higher-level debugging.
+- `skills/transport-provider-truth-and-burnin-classification`
+  - Classify provider-neutral startup failures, admission boundaries, and burn-in degradation while preserving transport attempt artifacts across providers.
 
 ## Install
 
@@ -25,3 +27,4 @@ This repository currently focuses on:
 4. mandatory real validation with preserved artifacts
 5. evidence extraction and final operator reporting
 6. generic serial-shell recovery and output de-noising
+7. provider-neutral startup truth and burn-in classification

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transport Provider Truth"
+  short_description: "Classify provider startup and burn-in truth"
+  default_prompt: "Use $transport-provider-truth-and-burnin-classification to classify provider-neutral startup failures, burn-in degradation, and transport attempt artifacts."
