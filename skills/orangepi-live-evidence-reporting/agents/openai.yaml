@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orange Pi Live Evidence"
+  short_description: "Assemble Orange Pi live run evidence"
+  default_prompt: "Use $orangepi-live-evidence-reporting to assemble real run artifacts and produce a final Orange Pi live validation report."

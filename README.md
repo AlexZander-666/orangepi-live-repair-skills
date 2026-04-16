@@ -6,6 +6,8 @@ Reusable Codex skills for recovering and validating CareSense Orange Pi live run
 
 - `skills/orangepi-live-direct-lan-repair`
   - Recover a `COM10`-attached Orange Pi live runtime with strict TDD, forced `Xiaomi 14` retargeting, classified transport failures, and dual real-validation runs.
+- `skills/orangepi-live-evidence-reporting`
+  - Assemble real run artifacts into an operator-grade final report with exact commands, run directories, extracted report fields, and a final success or classified-failure conclusion.
 
 ## Install
 
@@ -19,3 +21,4 @@ This repository currently focuses on:
 2. Xiaomi 14 direct-LAN admission as the known-good baseline
 3. provider startup truth and classified failures
 4. mandatory real validation with preserved artifacts
+5. evidence extraction and final operator reporting
